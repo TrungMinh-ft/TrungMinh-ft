@@ -1,8 +1,5 @@
 # 👋 Hi, I'm TrungMinh-ft — Web Developer
 
-🌐 I'm an aspiring Web Developer who loves learning technologies and building clean, functional projects.  
-💻 Currently exploring full-stack development and improving my skills day by day.
-
 ---
 
 ## 🛠 Tech Stack
@@ -14,24 +11,20 @@
 - **HTML & CSS**  
 - **R**  
 - **Git**
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,c,git,r)]()
+- **JavaScript**
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,c,git,r,javascript)]()
 
 ---
 
 ## 🚀 Featured Projects
-*(Bạn có thể bổ sung các dự án của mình vào đây — cứ gửi mình thông tin, mình sẽ viết mô tả đẹp và chuyên nghiệp.)*
 
-- **Project 1** — Mô tả ngắn gọn…  
-- **Project 2** — Mô tả ngắn gọn…  
-- **Project 3** — Mô tả ngắn gọn…  
+- **Project 1** — SnakeGame
+- **Project 2** — Sudoku   
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: *(bạn có thể thêm email ở đây)*  
+- 📧 Email: namnguyet2k5@gmail.com  
 - 🔗 GitHub: https://github.com/TrungMinh-ft  
 
 ---
-
-⭐ *Thanks for visiting my profile!*  
